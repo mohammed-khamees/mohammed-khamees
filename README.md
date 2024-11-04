@@ -9,7 +9,7 @@ Senior front-end engineer with extensive experience developing and deploying cut
 * 🌍  I'm based in Dubai, UAE
 * 🖥️  See my portfolio at [MyLinkedIn](http://www.linkedin.com/in/mohammed-khamees/)
 * ✉️  You can contact me at [moh.o.khamis@gmail.com](mailto:moh.o.khamis@gmail.com)
-* 🚀  I'm currently working on [Almosafer Paer of Seera Group](http://www.almosafer.com/en)
+* 🚀  I'm currently working on [Almosafer Part of Seera Group](http://www.almosafer.com/en)
 
 <a href="https://www.github.com/mohammed-khamees" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohammed-khamees?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
