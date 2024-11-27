@@ -27,4 +27,4 @@ src="https://img.shields.io/github/followers/mohammed-khamees?logo=github&style=
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mohammed-khamees"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-khamees&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/mohammed-khamees"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-khamees" /></a>
